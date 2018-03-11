@@ -1,0 +1,34 @@
+For CTCMODEL.py :
+
+CTCModel was developped at the LITIS laboratory, Normandie University (http://www.litislab.fr) by Cyprien RUFFINO and Yann SOULLARD, under the supervision of Thierry PAQUET.  
+
+CTCModel is under the terms of the GPL-3.0 licence.  
+
+@misc{ctcmodel,
+author = {Soullard, Yann and Ruffino, Cyprien and Paquet, Thierry},
+howpublished = {$\backslash$url{{}https://arxiv.org/link},
+title = {{CTCModel: Connectionist Temporal Classification in Keras}},
+year = {2018}
+
+
+Other files :
+The rest of the repository is under the termes of the MIT License.
+Copyright (c) 2018 DULHOSTE THIBAUD
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

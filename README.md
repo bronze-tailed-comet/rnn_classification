@@ -32,9 +32,7 @@ We can get an accuracy which is over than 95%, even if it can take a long time.
 
 - seq_labelling.py :
 The Connectionist Temporal Classification (CTC) is defined to perform a sequence labeling, i.e. where the label sequence in output can be shorter than the number of time frames of the observation sequence. This is a realistic task as it is not common to have one label per time frame. This approach has some similarities with the well-known Hidden Markov Models, such as the Forward-Backward process for instance. CTC relies on a cost function computed on the entire sequence that one will call ctc_loss to the next.
-First, define a new function rnn_seqlab_network to define a recurrent neural network for sequence labeling. Make a copy of the RNN defined for a classification task, one will modify it to perform the CTC.
-
-Then we experiment the network on a sequence of digits, with images from the MNIST dataset that have been concatenated to form sequences of 5 digits.
+First, define a new function rnn_seqlab_network to define a recurrent neural network for sequence labeling. Make a copy of the RNN defined for a classification task, one will modify it to perform the CTC. Then we experiment the network on a sequence of digits, with images from the MNIST dataset that have been concatenated to form sequences of 5 digits.
 
 
 - variable_length_seq.py :
